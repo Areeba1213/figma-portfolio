@@ -19,7 +19,7 @@ export const Hero = () => {
             {/*right */}
             <div className='w-full p-5 md:w-[60%] space-y-5'>
             <h1 className='text-3xl'>Hy I am Areeba Shahid </h1>
-             <p>a passionate web developer currently in the learning phase. I thrive on creating meaningful user experiences and constantly seek opportunities to grow and improve. With a strong determination to learn and an eye for detail, I am dedicated to mastering modern web technologies and building projects that make a difference."</p>
+             <p>a passionate web developer currently in the learning phase. I thrive on creating meaningful user experiences and constantly seek opportunities to grow and improve. With a strong determination to learn and an eye for detail I am dedicated to mastering modern web technologies and building projects that make a difference"</p>
               <div>
                 <p className='flex'><MapPinCheckInside />Karachi, Pakistan</p>
                 <p className='flex'><Dot className='text-green-500'/>Available for new Project</p>
