@@ -2,7 +2,6 @@ import React from 'react'
 import { CiMail } from "react-icons/ci";
 import { FaPhoneAlt } from "react-icons/fa";
 import { FaRegCopy } from "react-icons/fa6";
-import { FaGithub } from "react-icons/fa";
  import { BsGithub } from "react-icons/bs";
  import { IoLogoLinkedin } from "react-icons/io";
  import { FaFacebook } from "react-icons/fa6";
